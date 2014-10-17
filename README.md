@@ -1,4 +1,4 @@
 data-science
 ============
 
-data sciene repository
+data science repository
